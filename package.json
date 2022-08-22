@@ -1,0 +1,20 @@
+{
+  "name": "js-diving-deep-throt",
+  "version": "1.0.0",
+  "description": "> Diving deeper in Javascript and its new features. > Plain Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elbancud/js-diving-deep-throt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elbancud/js-diving-deep-throt/issues"
+  },
+  "homepage": "https://github.com/elbancud/js-diving-deep-throt#readme"
+}
