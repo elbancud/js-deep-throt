@@ -10,3 +10,11 @@ const PI = 3.14;
 const PI;
 console.log(PI);
 PI = 3.14;
+
+// This method causes the interpreter to be undefined
+// Work around is use a let
+var x = 100;
+function hoist() {
+  console.log(x);
+}
+hoist();
