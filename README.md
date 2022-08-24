@@ -6,6 +6,7 @@
 ### Topics covered
 
 - [JSOwN Parsing](https://docs.google.com/presentation/d/1C2RLbE-SS8ldlQPfXgsvKJBrEIZb4s57pOn-LxBNaC0/edit#slide=id.g42bf417d3b_0_1100)
+- [JSON Official Docu](https://www.json.org/json-en.html)
 - [Arrays](https://github.com/tc39/proposal-change-array-by-copy)
 
 ### Href
